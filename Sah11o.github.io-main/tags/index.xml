@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sahithi Chalamalla</title>
+    <link>https://sah11o.github.io/tags/</link>
+    <description>Recent content in Tags on Sahithi Chalamalla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sah11o.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>philosophy</title>
+      <link>https://sah11o.github.io/tags/philosophy/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sah11o.github.io/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>casual</title>
+      <link>https://sah11o.github.io/tags/casual/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sah11o.github.io/tags/casual/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
