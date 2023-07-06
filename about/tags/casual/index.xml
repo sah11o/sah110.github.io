@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>casual on Sahithi Chalamalla</title>
+    <link>https://sah11o.github.io/tags/casual/</link>
+    <description>Recent content in casual on Sahithi Chalamalla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sah11o.github.io/tags/casual/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>deploy.sh</title>
+      <link>https://sah11o.github.io/posts/deploy-sh/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sah11o.github.io/posts/deploy-sh/</guid>
+      <description>Deploying. Hello World.</description>
+    </item>
+    
+  </channel>
+</rss>
